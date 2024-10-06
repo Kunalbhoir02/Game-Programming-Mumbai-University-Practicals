@@ -22,7 +22,7 @@ def draw_overlapping_squares(num_squares, size, overlap, color_list):
         
         turtle.end_fill()
         
-        # Move to the next position
+        # Move to the next position#
         turtle.penup()
         turtle.forward(size - overlap)
         turtle.pendown()
