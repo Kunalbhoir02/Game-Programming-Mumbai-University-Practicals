@@ -1,0 +1,7 @@
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Texture the triangle\Texture the triangle\bin\Debug\Texture the triangle.exe
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Texture the triangle\Texture the triangle\bin\Debug\Texture the triangle.pdb
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Texture the triangle\Texture the triangle\obj\Debug\Texture_the_triangle.Form1.resources
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Texture the triangle\Texture the triangle\obj\Debug\Texture_the_triangle.Properties.Resources.resources
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Texture the triangle\Texture the triangle\obj\Debug\Texture the triangle.csproj.GenerateResource.Cache
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Texture the triangle\Texture the triangle\obj\Debug\Texture the triangle.exe
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Texture the triangle\Texture the triangle\obj\Debug\Texture the triangle.pdb

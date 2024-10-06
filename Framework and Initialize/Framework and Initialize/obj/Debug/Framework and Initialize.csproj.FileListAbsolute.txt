@@ -1,0 +1,8 @@
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Framework and Initialize\Framework and Initialize\bin\Debug\Framework and Initialize.exe
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Framework and Initialize\Framework and Initialize\bin\Debug\Framework and Initialize.pdb
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Framework and Initialize\Framework and Initialize\obj\Debug\Framework and Initialize.csprojResolveAssemblyReference.cache
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Framework and Initialize\Framework and Initialize\obj\Debug\Framework_and_Initialize.Form1.resources
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Framework and Initialize\Framework and Initialize\obj\Debug\Framework_and_Initialize.Properties.Resources.resources
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Framework and Initialize\Framework and Initialize\obj\Debug\Framework and Initialize.csproj.GenerateResource.Cache
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Framework and Initialize\Framework and Initialize\obj\Debug\Framework and Initialize.exe
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Framework and Initialize\Framework and Initialize\obj\Debug\Framework and Initialize.pdb

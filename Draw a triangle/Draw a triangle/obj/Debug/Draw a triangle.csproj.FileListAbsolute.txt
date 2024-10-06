@@ -1,0 +1,7 @@
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Draw a triangle\Draw a triangle\bin\Debug\Draw a triangle.exe
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Draw a triangle\Draw a triangle\bin\Debug\Draw a triangle.pdb
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Draw a triangle\Draw a triangle\obj\Debug\Draw_a_triangle.Form1.resources
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Draw a triangle\Draw a triangle\obj\Debug\Draw_a_triangle.Properties.Resources.resources
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Draw a triangle\Draw a triangle\obj\Debug\Draw a triangle.csproj.GenerateResource.Cache
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Draw a triangle\Draw a triangle\obj\Debug\Draw a triangle.exe
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Draw a triangle\Draw a triangle\obj\Debug\Draw a triangle.pdb
