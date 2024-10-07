@@ -1,0 +1,8 @@
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\model rendering5\model rendering5\obj\Debug\model rendering5.csprojResolveAssemblyReference.cache
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\model rendering5\model rendering5\obj\Debug\model_rendering5.Form1.resources
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\model rendering5\model rendering5\obj\Debug\model_rendering5.Properties.Resources.resources
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\model rendering5\model rendering5\obj\Debug\model rendering5.csproj.GenerateResource.Cache
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\model rendering5\model rendering5\bin\Debug\model rendering5.exe
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\model rendering5\model rendering5\bin\Debug\model rendering5.pdb
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\model rendering5\model rendering5\obj\Debug\model rendering5.exe
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\model rendering5\model rendering5\obj\Debug\model rendering5.pdb

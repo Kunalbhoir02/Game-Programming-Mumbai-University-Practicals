@@ -5,3 +5,4 @@ D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Diffuse Light
 D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Diffuse Lightning\Diffuse Lightning\obj\Debug\Diffuse Lightning.csproj.GenerateResource.Cache
 D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Diffuse Lightning\Diffuse Lightning\obj\Debug\Diffuse Lightning.exe
 D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Diffuse Lightning\Diffuse Lightning\obj\Debug\Diffuse Lightning.pdb
+D:\TYCS 2024-25\push\Game Programming Mumbai University Practicals\Diffuse Lightning\Diffuse Lightning\obj\Debug\Diffuse Lightning.csprojResolveAssemblyReference.cache
